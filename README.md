@@ -11,7 +11,7 @@ The purpose of this repo is to provide a valid pytorch implementation of Heredit
 This implementation matches description of the original paper, with comparable or better test error.
 
 ## How to run?
-download fin
+Download repository: ```HKT-ResNet-main.zip```
 ```bash
 cd HKT-ResNet
 chmod +x run.sh && ./run.sh
