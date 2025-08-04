@@ -1,6 +1,6 @@
 # HKT-ResNet CIFAR-10
 <img src="pretrained_models/hktresnet.png">
-The purpose of this repo is to provide a valid pytorch implementation of Hereditary Knowledge Transfer HKT applied between ResNet-100 (P) and ResNet-20 (C) for CIFAR10 as described in the original paper. The following models are provided:
+The purpose of this repo is to provide a valid pytorch implementation of Hereditary Knowledge Transfer (HKT) applied between ResNet-100 (P) and ResNet-20 (C) for CIFAR10 as described in the original paper. The following models are provided:
 
 | Name      | # layers | # params| Test err(paper) |
 |-----------|---------:|--------:|:-----------------:|
